@@ -1,0 +1,79 @@
+﻿  Calculator winapi.cpp
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(176,10): warning C4834: discarding return value of function with 'nodiscard' attribute
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(184,44): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(185,44): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(190,44): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(191,44): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(195,44): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(196,44): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(200,44): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(201,44): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(205,44): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(206,44): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(211,40): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(212,40): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(216,40): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(217,40): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(221,40): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\Calculator winapi\Calculator winapi.cpp(131): warning C4715: 'WindowProcedure': not all control paths return a value
+  Calculator winapi.vcxproj -> E:\visual studio\Calculator winapi\Calculator-WinApi-CPP\x64\Debug\Calculator winapi.exe
